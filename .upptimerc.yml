@@ -39,7 +39,6 @@ status-website:
   cname: status.agrevolution.in
   # baseUrl: /uptime
   logoUrl: https://agrevolution.in/assets/frontend/images/logo-inner.svg
-  name: Dehaat
   introTitle: "## __Sit back. Relax. Focus on your business. Let us worry about your uptime__"
   navbar:
     - title: Status
