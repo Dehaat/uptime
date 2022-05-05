@@ -5,33 +5,59 @@ repo: uptime # The name of this repository
 sites:
   - name: Geography
     url: https://aeros.api.agrevolution.in/admin/login/?next=/admin/
+    assignees:
+      - kusmandeep
   - name: Kheti
     url: https://kheti.api.agrevolution.in/admin/login/?next=/admin/
+    assignees:
+      - skdeep12
   - name: Mailman
     url: https://mailman.api.agrevolution.in/admin/login/?next=/admin/
+    assignees:
+      - skdeep12
   - name: Ticketmaster
     url: https://ticketmaster.api.agrevolution.in/admin/login/?next=/admin/
+    assignees:
+      - skdeep12
   - name: Locus
     url: https://locus.api.dehaatagri.com/admin/login/?next=/admin/
+    assignees:
+      - GauravNama
   - name: Output Marketplace
     url: https://output.api.agrevolution.in
+    assignees:
+      - harshvardhansharma
   - name: Rancher
     url: https://rancher.agrevolution.in
+     assignees:
+      - dkdocs
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: dehaat.github.io/uptime
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://agrevolution.in/assets/frontend/images/logo-inner.svg
+  name: Dehaat
+  introTitle: "## __Sit back. Relax. Focus on your business. Let us worry about your uptime__"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+user-agent: dkdocs
+
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 1 * *"
+  updates: "0 0 1 * *"
+  uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
