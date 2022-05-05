@@ -36,8 +36,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: dehaat.github.io/uptime
-  baseUrl: /uptime
+  cname: status.agrevolution.in
+  # baseUrl: /uptime
   logoUrl: https://agrevolution.in/assets/frontend/images/logo-inner.svg
   name: Dehaat
   introTitle: "## __Sit back. Relax. Focus on your business. Let us worry about your uptime__"
