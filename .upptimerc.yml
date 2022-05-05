@@ -29,7 +29,7 @@ sites:
       - harshvardhansharma
   - name: Rancher
     url: https://rancher.agrevolution.in
-     assignees:
+    assignees:
       - dkdocs
 
 
