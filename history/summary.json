@@ -22,18 +22,20 @@
     "url": "https://kheti.api.agrevolution.in/admin/login/?next=/admin/",
     "icon": "https://favicons.githubusercontent.com/kheti.api.agrevolution.in",
     "slug": "kheti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1024,
-    "timeDay": 758,
-    "timeWeek": 1061,
-    "timeMonth": 1024,
-    "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "time": 1004,
+    "timeDay": 721,
+    "timeWeek": 1014,
+    "timeMonth": 1004,
+    "timeYear": 1004,
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "Mailman",
@@ -58,18 +60,20 @@
     "url": "https://ticketmaster.api.agrevolution.in/admin/login/?next=/admin/",
     "icon": "https://favicons.githubusercontent.com/ticketmaster.api.agrevolution.in",
     "slug": "ticketmaster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 891,
-    "timeDay": 808,
-    "timeWeek": 751,
-    "timeMonth": 891,
-    "timeYear": 891,
-    "dailyMinutesDown": {}
+    "time": 941,
+    "timeDay": 1273,
+    "timeWeek": 874,
+    "timeMonth": 941,
+    "timeYear": 941,
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "Locus",
