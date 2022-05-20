@@ -76,19 +76,19 @@
     "url": "https://locus.api.dehaatagri.com/admin/login/?next=/admin/",
     "icon": "https://favicons.githubusercontent.com/locus.api.dehaatagri.com",
     "slug": "locus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 863,
-    "timeWeek": 828,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 808,
+    "timeDay": 974,
+    "timeWeek": 869,
+    "timeMonth": 808,
+    "timeYear": 808,
     "dailyMinutesDown": {
-      "2022-05-20": 0
+      "2022-05-20": 6
     }
   },
   {
