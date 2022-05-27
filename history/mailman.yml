@@ -1,7 +1,7 @@
 url: https://mailman.api.agrevolution.in/admin/login/?next=/admin/
-status: down
-code: 503
-responseTime: 835
-lastUpdated: 2022-05-27T02:33:54.695Z
+status: up
+code: 200
+responseTime: 840
+lastUpdated: 2022-05-27T03:13:34.005Z
 startTime: Wed May 04 2022 12:04:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
