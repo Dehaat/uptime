@@ -40,18 +40,20 @@
     "url": "https://mailman.api.agrevolution.in/admin/login/?next=/admin/",
     "icon": "https://favicons.githubusercontent.com/mailman.api.agrevolution.in",
     "slug": "mailman",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 704,
-    "timeWeek": 1018,
-    "timeMonth": 983,
-    "timeYear": 983,
-    "dailyMinutesDown": {}
+    "time": 978,
+    "timeDay": 770,
+    "timeWeek": 995,
+    "timeMonth": 978,
+    "timeYear": 978,
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   },
   {
     "name": "Ticketmaster",
